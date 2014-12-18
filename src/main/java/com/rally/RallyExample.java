@@ -17,7 +17,7 @@ public class RallyExample {
         QueryResponse response = restApi.query(new QueryRequest("defect"));
 
         for (JsonElement element : response.getResults()) {
-            System.out.println(element.getAsString());
+            System.out.println(element);
         }
     }
 }
