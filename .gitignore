@@ -71,5 +71,5 @@ crashlytics.properties
 crashlytics-build.properties
 
 # CUSTOM
-#src/main/java/com/rally/authentication/Credentials.java
+src/main/java/com/rally/authentication/Credentials.java
 
