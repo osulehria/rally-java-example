@@ -14,10 +14,6 @@ To run example application, run:
 ./gradlew run
 ```
 
-To use your own Rally credentials, head over to [Credentials.java](src/main/java/com/rally/authentication/Credentials)
-file and fill out the server, username/password, and API key. It is highly recommended to use a generated API key
-unless you do not have an option to.
-
 ## License
 
 rally-java-example is released under the MIT license. See the file [LICENSE](LICENSE) for the full text.

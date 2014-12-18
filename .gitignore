@@ -69,7 +69,3 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
-
-# CUSTOM
-src/main/java/com/rally/authentication/Credentials.java
-
